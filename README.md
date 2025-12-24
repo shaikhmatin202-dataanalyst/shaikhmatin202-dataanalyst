@@ -1,90 +1,85 @@
-# Hey 👋, I'm Matin Shaikh
-
-## 🎯 My Skills & Technologies 
-**• 🧠 AI/ML** | **MySQL** | **Python** | **PowerBI**  
-**• 🌐 HTML** | **CSS** | **JavaScript**  
-**• 💾 MSExcel** | **Data Analysis & Data Visualization** | **Data Cleaning**  
-**• 🗄️  Exploratory Data Analysis** | **Data Modeling**
-
-
-## 📫 Reach me:
-Mail: [shaikhmatin202@gmail.com](shaikhmatin202@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matin-shaikh-b6542037b/) | [My site](https://shaikhmatin202-dataanalyst.github.io/My-Portfolio/)
-
-##
-<p align="center"><em>"Passionate about building real‑world solutions 💻✨"</em></p>
-
----
-
-## 💻 Tech Stack
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+# 👋 Hi, I'm **Matin Shaikh**  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 📊 Data Analyst Fresher | 📈 Power BI | 🐍 Python | 🗄️ SQL | 📑 Excel  
 
-###
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights;Power+BI+%7C+Python+%7C+SQL;Aspiring+Data+Analyst" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-# 📊 GitHub Stats:
+## 🚀 About Me  
 
-![](https://github-readme-stats.vercel.app/api?username=Pallavi1904&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pallavi1904&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi1904&theme=dark&hide=php&layout=compact)
+🎯 Aspiring **Data Analyst** passionate about converting raw data into actionable insights.  
+📊 Hands-on experience with **Power BI dashboards**, **SQL queries**, and **Python analysis**.  
+🔍 Skilled in **data cleaning, transformation, and visualization**.  
+🌱 Continuously learning advanced analytics & BI techniques.  
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack  
 
+<div align="center">
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
+---
 
+## 📊 Featured Projects  
 
+### 📱 Mobile Sales Insights Dashboard (Power BI)  
+✔ Interactive Power BI dashboard  
+✔ Sales trends, revenue analysis & KPIs  
+✔ Cleaned & transformed raw sales data  
 
+### 📂 Data Cleaning & Transformation  
+✔ Removed duplicates & handled missing values  
+✔ Converted PDF/CSV/JSON datasets  
+✔ Prepared analytics-ready datasets  
 
+### 📈 SQL Data Analysis  
+✔ Complex SQL queries  
+✔ Joins, aggregations & filtering  
+✔ Business-focused insights  
+
+---
+
+## 📈 GitHub Analytics  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shaikhmatin202-dataanalyst&show_icons=true&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhmatin202-dataanalyst&layout=compact&theme=tokyonight" height="160"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matin-shaikh-b6542037b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://shaikhmatin202-dataanalyst.github.io/My-Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhmatin202@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *“Without data, you’re just another person with an opinion.”* ✨  
+
+⭐ **If you like my work, consider giving a star!**
+
+</div>
