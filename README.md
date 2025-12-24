@@ -1,14 +1,14 @@
-# Hey 👋, I'm Pallavi Akolkar
+# Hey 👋, I'm Matin Shaikh
 
 ## 🎯 My Skills & Technologies 
-**• 🧠 AI/ML** | **Deep Learning** | **Python** | **LLM**  
+**• 🧠 AI/ML** | **MySQL** | **Python** | **PowerBI**  
 **• 🌐 Full‑stack (MERN)** | **HTML** | **CSS** | **JavaScript**  
 **• 💾 C** | Java | **C++**  
 **• 🗄️ SQL** | **MongoDB**
 
 
 ## 📫 Reach me:
-Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pallavi-akolkar/) | [My site](https://pallaviakolkar-portfolio.netlify.app/)
+Mail: [shaikhmatin202@gmail.com](shaikhmatin202@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matin-shaikh-b6542037b/) | [My site](https://pallaviakolkar-portfolio.netlify.app/)
 
 ##
 <p align="center">
