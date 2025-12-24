@@ -11,10 +11,6 @@
 Mail: [shaikhmatin202@gmail.com](shaikhmatin202@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matin-shaikh-b6542037b/) | [My site](https://shaikhmatin202-dataanalyst.github.io/My-Portfolio/)
 
 ##
-<p align="center">
-  <img src="team1.webp" alt="Female software engineer coding" height="400"  width="500" style="border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
-</p>
-
 <p align="center"><em>"Passionate about building real‑world solutions 💻✨"</em></p>
 
 ---
