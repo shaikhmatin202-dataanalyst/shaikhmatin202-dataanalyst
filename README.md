@@ -2,9 +2,9 @@
 
 ## 🎯 My Skills & Technologies 
 **• 🧠 AI/ML** | **MySQL** | **Python** | **PowerBI**  
-**• 🌐 Full‑stack (MERN)** | **HTML** | **CSS** | **JavaScript**  
-**• 💾 C** | Java | **C++**  
-**• 🗄️ SQL** | **MongoDB**
+**• 🌐 HTML** | **CSS** | **JavaScript**  
+**• 💾 MSExcel** | **Data Analysis & Data Visualization** | **Data Cleaning**  
+**• 🗄️  Exploratory Data Analysis** | **Data Modeling**
 
 
 ## 📫 Reach me:
