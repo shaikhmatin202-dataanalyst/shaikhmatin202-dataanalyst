@@ -8,7 +8,7 @@
 
 
 ## 📫 Reach me:
-Mail: [shaikhmatin202@gmail.com](shaikhmatin202@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matin-shaikh-b6542037b/) | [My site](https://pallaviakolkar-portfolio.netlify.app/)
+Mail: [shaikhmatin202@gmail.com](shaikhmatin202@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matin-shaikh-b6542037b/) | [My site](https://shaikhmatin202-dataanalyst.github.io/My-Portfolio/)
 
 ##
 <p align="center">
@@ -61,24 +61,6 @@ Mail: [shaikhmatin202@gmail.com](shaikhmatin202@gmail.com) | [LinkedIn](https://
 ![](https://nirzak-streak-stats.vercel.app/?user=Pallavi1904&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi1904&theme=dark&hide=php&layout=compact)
 
-
----
-
-
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pallavi1904&limit=5&theme=dark&combine_all_yearly_contributions=true&hide=nonexistent" alt="Top contributed repositories" />
-</p>
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Pallavi1904&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
